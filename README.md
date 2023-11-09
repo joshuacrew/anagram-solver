@@ -1,4 +1,4 @@
-# Anagram Assignment
+# Anagram Solver
 
 This program takes a file path as an argument that points to a file that contains one word per line and writes to standard output the words in the file separated by new lines, with the words that are anagrams of each other grouped together.
 
